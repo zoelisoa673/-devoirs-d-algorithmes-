@@ -15,15 +15,15 @@ p   nombre_entier
 Début
     
 
-   AFFICHAGE "Entrer la valeur de (m)
+      AFFICHAGE "Entrer la valeur de (m)
     
-   LIRE (m)
+      LIRE (m)
    
-   AFFICHAGE "Entrer la valeur de (n)
+      AFFICHAGE "Entrer la valeur de (n)
    
-   LIRE (n)
+      LIRE (n)
     
-   AFFICHAGE "Valeur de (p)"
+      AFFICHAGE "Valeur de (p)"
 
 
 Fin
