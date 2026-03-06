@@ -14,6 +14,7 @@ p   nombre_entier
 
 Début
     
+
    AFFICHAGE "Entrer la valeur de (m)
     
    LIRE (m)
@@ -23,5 +24,6 @@ Début
    LIRE (n)
     
    AFFICHAGE "Valeur de (p)"
+
 
 Fin
