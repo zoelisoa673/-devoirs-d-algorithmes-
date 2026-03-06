@@ -1,6 +1,6 @@
 # -devoirs-d-algorithmes-
 
-*Description du problème:m-n=p*
+*m-n=p*
 
 *Soustraction des variables*
 
