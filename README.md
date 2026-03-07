@@ -6,11 +6,11 @@
 
 *Déclarations des variables*
 
-m   nombre_entier
+m   nombre_entier   m <-> val de m
 
-n   nombre_entier
+n   nombre_entier   n <-> val de n
 
-p   nombre_entier
+p   nombre_entier   p <-> val de p
 
 Début
     
@@ -23,6 +23,8 @@ Début
    
       LIRE (n)
     
+p <- m-n
+
       AFFICHAGE "Valeur de (p)"
 
 
